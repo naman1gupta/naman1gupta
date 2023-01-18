@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![@namang01's Holopin board](https://holopin.io/api/user/board?user=namang01)](https://holopin.io/@namang01)
+[![An image of @namang01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namang01)](https://holopin.io/@namang01)
 
 <!--
 **naman1gupta/naman1gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
